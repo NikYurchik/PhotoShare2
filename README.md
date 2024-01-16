@@ -1,2 +1,2 @@
 # PhotoShare2
-“PhotoShare” (REST API + FrontEnd) 
+“PhotoShare” (REST API + Jinja2) 
